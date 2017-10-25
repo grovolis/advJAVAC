@@ -1,4 +1,4 @@
-# advJAVAC
+# Advanced Java
 This is a coursework solution for the Module Advanced Java part of my MSc in Cloud Computing
 The aim of this project is to demonstrate and implement the use of classes and interfaces as part of a Car Rental System and includes
 the following:
